@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+models/*.pkl
+models/*.onnx
+data/raw/*.csv
+data/processed/*.csv
+logs/
+mlruns/
+*.egg-info/
